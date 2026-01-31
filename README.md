@@ -19,10 +19,3 @@ Clone the repository and navigate inside:
 ```bash
 git clone https://github.com/Hasssaan514/Meraki-health-check.git
 cd Meraki-health-check
-
-
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
